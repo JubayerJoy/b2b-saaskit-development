@@ -66,14 +66,14 @@ B2B companies are fairly common - for example, over 40% of <a href="https://www.
 
 2. Clone repo, start app
 
-```
-git clone git@github.com:fogbender/b2b-saaskit.git
-cd b2b-saaskit
-corepack enable
-corepack prepare yarn@1.22.19 --activate
-yarn
-yarn dev
-```
+	```
+	git clone git@github.com:fogbender/b2b-saaskit.git
+	cd b2b-saaskit
+	corepack enable
+	corepack prepare yarn@1.22.19 --activate
+	yarn
+	yarn dev
+	```
 
 3. Open http://localhost:3000 in a browser tab - you should see a page titled "Welcome to Prompts with Friends"
 
